@@ -16,7 +16,7 @@ class SetFpsSubState extends MusicBeatSubstate
 {
     var grpMenuShit:FlxTypedGroup<Alphabet>;
 
-	var menuItems:Array<String> = ['default fps', 'ninety fps'];
+	var menuItems:Array<String> = ['default fps', 'BETTER fps'];
 	var curSelected:Int = 0;
     
     var _pad:FlxVirtualPad;
