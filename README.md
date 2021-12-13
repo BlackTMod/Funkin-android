@@ -1,6 +1,5 @@
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/59097731/121178442-29003c00-c867-11eb-8851-b07d2c5ca7b6.png" width="600" />
-</p>
+
   
 THIS IS ONE ENGINE OF FNF FOR ANDROID!!!".
 
@@ -66,7 +65,7 @@ ORIGINAL PORT:https://github.com/luckydog7/Funkin-android/releases
 - [Kawaisprite](https://twitter.com/kawaisprite) - Musician
 - [luckydog (me!)](https://github.com/luckydog7) - android port
 
-This game was made with love to Newgrounds and it's community. Extra love to Tom Fulp.
+''This game was made with love to Newgrounds and it's community. Extra love to Tom Fulp.''
+  -LUCKYDOG7 (THE BIG SHOT)
 
 
-![amogus](https://user-images.githubusercontent.com/59097731/121178490-34ebfe00-c867-11eb-8a42-f2bb37bcca69.png)
