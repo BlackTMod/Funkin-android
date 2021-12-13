@@ -30,7 +30,7 @@ class CreditState extends MusicBeatState{
 	override function create()
 	{
 	    addWeek(['FNF Android Creator', 'V2.8 Coder'], 1, ['lucky', 'zack']);
-	    addWeek(['Engine Creator', 'BetaTester1'], 2, ['Black Tord', 'Tor']);
+	    addWeek(['Engine Creator', 'BetaTester1'], 2, ['Black Tord', 'TorD2']);
 	    addWeek(['Icon Artist', 'Icon Set 2'], 3, ['idioticlucas', 'maskedpump']);
 	    addWeek(['GF Animator', 'Freeplay Bumpin'], 4, ['mark', 'smokey']);
 	    addWeek(['Builder', 'Save help + builder', 'NoteSplash + tankroll'], 5, ['peppy', 'klavier', 'gamerbros']);
