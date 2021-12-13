@@ -2,27 +2,20 @@
 <img src="https://user-images.githubusercontent.com/59097731/121178442-29003c00-c867-11eb-8851-b07d2c5ca7b6.png" width="600" />
 </p>
   
-This is the repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
+THIS IS ONE ENGINE OF FNF FOR ANDROID!!!".
 
-Play the Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-funkin
-Play the Newgrounds one here: https://www.newgrounds.com/portal/view/770371
-Support the project on the itch.io page: https://ninja-muffin24.itch.io/funkin
 
-IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMIPLED VERSION, YOU MUST OPEN SOURCE YOUR MOD AS WELL
+Support the ORIGINAL project on the itch.io page: https://ninja-muffin24.itch.io/funkin
+
+"IF YOU MAKE A MOD AND DISTRIBUTE A MODIFIED / RECOMIPLED VERSION, YOU MUST OPEN SOURCE YOUR MOD AS WELL"
+-LUCKYDOG7
 
 # download
 
-https://github.com/luckydog7/Funkin-android/releases
+ORIGINAL PORT:https://github.com/luckydog7/Funkin-android/releases
 
 
 
-# screenshots
-<div>
-<img src="https://user-images.githubusercontent.com/59097731/104103630-31eae280-52b4-11eb-90a4-5bdb1b39fc53.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/59097731/104103635-34e5d300-52b4-11eb-96f8-13910580fbc8.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/59097731/104103636-36af9680-52b4-11eb-8740-f7be0c098265.jpg" width="200" />
-<img src="https://user-images.githubusercontent.com/59097731/104103637-37e0c380-52b4-11eb-8f84-87892f3e5d85.jpg" width="200" />
-</div>
 
 # Build instructions
 
